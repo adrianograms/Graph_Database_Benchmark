@@ -1,1 +1,1 @@
-# Graph_Database_Benchmark
+# Graph Database Benchmark
